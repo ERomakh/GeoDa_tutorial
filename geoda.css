@@ -1,0 +1,24 @@
+#title{
+    color: black;
+    margin: auto;
+    padding: 10px;
+    background-color: rgb(117 190 218 / 0.5);
+    width: 100%;
+    height: 80px;
+    text-align: center;
+}
+
+#About_GD{
+    color: black;
+    margin: auto;
+    padding: 8px;
+    background-color: rgb(117 190 218 / 0.5);
+    width: 100%;
+    height: 60px;
+    text-align: center;
+}
+
+#greendiv{
+    background-color: rgba(0, 255, 13, 0.5);
+    padding: 10px;
+}
